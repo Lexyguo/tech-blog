@@ -1,4 +1,4 @@
-# tech-blog
+# Tech-Blog
 关于Lexy(FE)个人的技术博客库
 
 ## 技术选型
