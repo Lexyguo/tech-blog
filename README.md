@@ -1,3 +1,15 @@
+# tech-blog
+关于Lexy(FE)个人的技术博客库
+
+## 技术选型
+
+`Next.js`: [用于生产环境的React框架，来支持热模块替换、自动代码拆分、静态和服务端渲染、TS、智能化打包、路由预取、等功能。](https://www.nextjs.cn)
+
+`React`: [前端框架,用于构建Web和原生交互界面的库。](https://www.react.docschina.org)
+
+`Ant Design`: 前端组件库
+
+## 关于Next.js
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
