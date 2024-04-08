@@ -9,6 +9,10 @@
 
 `Ant Design`: 前端组件库
 
+`Zod`: [是一个以 TypeScript 为首的模式声明和验证库 ，弥补了 TypeScript 无法在运行时进行校验的问题。既可以用在服务端也可以运行在客户端，以保障 Web Apps 的类型安全。](https://zod.dev/README_ZH)
+
+`bcrypt`: [用于密码哈希的加密算法，基于Blowfish算法的加强版](https://www.npmjs.com/package/bcrypt)
+
 ## 关于Next.js
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
